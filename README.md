@@ -1,18 +1,55 @@
-# 👋 Hello! I'm Manav Khambhayata, 
-A passionate 4th-year college student dead set on a journey through the realm of technology and artificial intelligence. Welcome to my digital universe where code meets creativity and bytes spark innovation.
+# 👋 Hello! I'm Manav Khambhayata
 
-- 🔭 I’m currently working on the exciting Image Regeneration of an old damaged picture project, breathing new life into vintage memories.
+Welcome to my digital universe! I'm currently pursuing my **MTech in Computer Science (AI & ML)** at **IIIT Lucknow**.
 
-- 🌱 I’m currently learning the art of generative AI, where pixels turn into imagination.
+---
 
-- 👯 I’m looking to collaborate on any AI/ML project that dances on the edge of innovation, challenging conventions and sparking awe.
+### 🔬 Current Focus Areas
+- **🧠 MTech Thesis:** Blending **LLMs and Reinforcement Learning** for dynamic NPC behavior — a fusion of game AI and natural dialogue systems.
+---
 
-- 🤔 I’m looking for help with open-source contributions, as I believe in the power of collaboration to elevate technology.
+### 💡 Skills & Technologies
+- **Languages:** Python, C/C++
+- **Deep Learning:** CNNs, RNNs, LSTMs, GANs, Transformers (ResNet, VGG, Inception, Autoencoders)
+- **NLP & LLMs:** Attention, Prompt Engineering, Hugging Face, LangChain, LlamaIndex, OpenAI API
+- **Data Science Tools:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, PySpark, PostgreSQL
+- **Platforms & MLOps:** Git, GitHub, Linux, MLflow, Kubeflow, CI/CD, Airflow
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn
+- **Extras:** LaTeX, Research Writing, RAG, ChromaDB, Pinecone
 
-- 💬 Ask me about the intricate world of ML and deep learning, where neurons and algorithms merge to shape tomorrow's intelligence.
+---
 
-- 📫 How to reach me: Let's connect at king.manav.nk@outlook.com or join me on [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/) for a cosmic conversation.
+### 🏆 Achievements
+- **All India Rank 951** – GATE 2024 (Data Science & AI)
+- **IEEE Publication** – RL for Super Mario via PPO
+- **Springer Nature Publication** – GFP-GAN based image restoration
+- **SSRN Publications** – Marine Animal Detection, Self-Driving Cars with RL
+- **Kaggle Rank 186** – AI vs Human Image Classification Challenge
+- **300+ coding problems** solved across Leetcode & GeeksforGeeks
 
-- ⚡ Fun fact: Did you know neural networks sometimes dream in code? 🤖💭 A glimpse into a future where even AI has its thoughts.
+---
 
-🚀 Join me as I explore the cosmos of technology, fusing creativity with algorithms and learning with innovation. Together, let's code for a smarter tomorrow!
+### 🤝 Let's Collaborate
+I'm always looking to co-create on:
+- **AI research projects**
+- **Innovative LLM/GenAI ideas**
+- **Open-source ML contributions**
+- **Cutting-edge vision-language systems**
+
+---
+
+### 📫 Contact Me
+📧 mcs24024@iiitl.ac.in  
+📬 king.manav.nk@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/)  
+💻 [GitHub](https://github.com/ManavKhambhayata)
+
+---
+
+### ⚡ Fun Fact
+Even neural networks dream — in latent vectors and embeddings! 🤖💭  
+Let’s build systems that not only **learn** but also **create**.
+
+---
+
+> 🚀 Join me on a journey to build intelligent, artistic, and impactful AI systems. Together, let’s code the future.
