@@ -39,11 +39,8 @@ I'm always looking to co-create on:
 ---
 
 ### 📫 Contact Me
-📧 mcs24024@iiitl.ac.in  
 📬 king.manav.nk@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/)  
-💻 [GitHub](https://github.com/ManavKhambhayata)
-
 ---
 
 ### ⚡ Fun Fact
@@ -51,5 +48,3 @@ Even neural networks dream — in latent vectors and embeddings! 🤖💭
 Let’s build systems that not only **learn** but also **create**.
 
 ---
-
-> 🚀 Join me on a journey to build intelligent, artistic, and impactful AI systems. Together, let’s code the future.
