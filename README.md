@@ -17,9 +17,9 @@ Outside of work, I'm investing my time in the math and theory underneath — pro
 
 | Area | What exactly |
 |---|---|
-| 📖 Reading | *Probabilistic Machine Learning: An Introduction* — Kevin Murphy · [[implementations]](./your-link) |
+| 📖 Reading | *Probabilistic Machine Learning: An Introduction* — Kevin Murphy · [[code repo]](https://github.com/ManavKhambhayata/Probabilistic-ML-From-Scratch) |
 | 📖 Reading | *LLM Engineer's Handbook* — Packt |
-| 🔨 Building | LLM Twin — data pipelines → RAG → fine-tuning → eval → inference · [[repo]](./your-link) |
+| 🔨 Building | LLM Twin — data pipelines → RAG → fine-tuning → eval → inference · [[repo]](https://github.com/ManavKhambhayata/LLM-Twin-Deepdive) |
 | 🔨 Building | MTech Thesis — Offline RL-guided NPC dialogue system using CQL |
 | 📝 Writing | Technical stuff  about what breaks when theory meets production · [[LinkedIn]](https://www.linkedin.com/in/manav-khambhayata/) |
 
@@ -39,8 +39,8 @@ Fine-tuned **ConvNeXt-Base** with custom classification heads and integrated **K
 ## Publications
 
 - **Mastering Super Mario Bros. via RL with Stable-Baselines3** — IEEE ACROSET 2024 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
-- **Image Regeneration via GANs** — Springer Nature, AAIML CCIS 2023 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
-- **CARLA vs AirSim: Simulator Comparison** — SSRN (Elsevier) 2023 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
+- **Image Regeneration via GANs** — Springer Nature, AAIML CCIS 2023 · [[Paper]](https://link.springer.com/chapter/10.1007/978-981-95-0148-9_7)
+- **CARLA vs AirSim: Simulator Comparison** — SSRN (Elsevier) 2023 · [[Paper]](https://ieeexplore.ieee.org/document/10743683)
 
 ---
 
