@@ -30,8 +30,8 @@ Outside of work, I'm investing my time in the math and theory underneath — pro
 **[Offline RL–Guided NPC Dialogue System](./)**  
 MTech Thesis @ IIIT Lucknow. Separating high-level NPC intent strategy (learned via Conservative Q-Learning on synthetic dialogue trajectories) from natural language realization via an LLM. Built the full synthetic data generation and logging pipeline — turn-level transitions exported as `.npz` for offline training.
 
-**[ConvNeXt + KMeans Hybrid Classifier — AI Image Detection](./)**  
-Fine-tuned ConvNeXt-Base with custom classification heads + KMeans clustering on frequency-domain descriptors (Laplacian variance, noise residuals, skewness, kurtosis, Otsu statistics). F1 of 0.92 on Kaggle. [[Demo]](https://your-link-here)
+**[ConvNeXt + KMeans Hybrid Classifier — AI Image Detection]([./](https://github.com/ManavKhambhayata/AI_vs_Human))**  
+Fine-tuned ConvNeXt-Base with custom classification heads + KMeans clustering on frequency-domain descriptors (Laplacian variance, noise residuals, skewness, kurtosis, Otsu statistics). F1 of 0.92 on Kaggle. [[Demo]](https://huggingface.co/spaces/Anaearth12/AI_vs_Human)
 
 ---
 
