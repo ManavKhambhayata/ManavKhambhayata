@@ -1,13 +1,13 @@
 # Manav Khambhayata
 
-**Data Scientist @ Swiggy · MTech AI/ML @ IIIT Lucknow**  
+**Data Scientist Intern @ Swiggy · MTech AI/ML @ IIIT Lucknow**  
 📍 Lucknow, India · 📬 king.manav.nk@outlook.com · [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/) · [Kaggle](https://www.kaggle.com/) 
 
 ---
 
 I build production LLM systems and go deep on the fundamentals behind them.
 
-At Swiggy, I've worked across multi-agent orchestration, RAG pipelines, LLM evaluation frameworks, and multilingual voice AI in production. That's the engineering side.
+At Swiggy, I've worked across multi-agent orchestration, RAG pipelines, LLM evaluation frameworks, and multilingual voice AI in production.
 
 Outside of work, I'm investing my time in the math and theory underneath — probabilistic ML, Bayesian inference, GPU programming, and LLM system design, translating both into code as I go. I believe the engineers who will matter in this space are those who can ship systems *and* reason from first principles. That's the direction I'm building toward.
 
