@@ -1,50 +1,86 @@
-# 👋 Hello! I'm Manav Khambhayata
+# Manav Khambhayata
 
-Welcome to my digital universe! I'm currently pursuing my **MTech in Computer Science (AI & ML)** at **IIIT Lucknow**.
-
----
-
-### 🔬 Current Focus Areas
-- **🧠 MTech Thesis:** Blending **LLMs and Reinforcement Learning** for dynamic NPC behavior — a fusion of game AI and natural dialogue systems.
----
-
-### 💡 Skills & Technologies
-- **Languages:** Python, C/C++
-- **Deep Learning:** CNNs, RNNs, LSTMs, GANs, Transformers (ResNet, VGG, Inception, Autoencoders)
-- **NLP & LLMs:** Attention, Prompt Engineering, Hugging Face, LangChain, LlamaIndex, OpenAI API
-- **Data Science Tools:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, PySpark, PostgreSQL
-- **Platforms & MLOps:** Git, GitHub, Linux, MLflow, Kubeflow, CI/CD, Airflow
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn
-- **Extras:** LaTeX, Research Writing, RAG, ChromaDB, Pinecone
+**Data Scientist @ Swiggy · MTech AI/ML @ IIIT Lucknow**  
+📍 Lucknow, India · 📬 king.manav.nk@outlook.com · [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/) · [Kaggle](https://www.kaggle.com/) 
 
 ---
 
-### 🏆 Achievements
-- **All India Rank 951** – GATE 2024 (Data Science & AI)
-- **IEEE Publication** – RL for Super Mario via PPO
-- **Springer Nature Publication** – GFP-GAN based image restoration
-- **SSRN Publications** – Marine Animal Detection, Self-Driving Cars with RL
-- **Kaggle Rank 186** – AI vs Human Image Classification Challenge
-- **300+ coding problems** solved across Leetcode & GeeksforGeeks
+I build production LLM systems and go deep on the fundamentals behind them.
+
+At Swiggy, I've worked across multi-agent orchestration, RAG pipelines, LLM evaluation frameworks, and multilingual voice AI in production. That's the engineering side.
+
+Outside of work, I'm investing my time in the math and theory underneath — probabilistic ML, Bayesian inference, GPU programming, and LLM system design, translating both into code as I go. I believe the engineers who will matter in this space are those who can ship systems *and* reason from first principles. That's the direction I'm building toward.
 
 ---
 
-### 🤝 Let's Collaborate
-I'm always looking to co-create on:
-- **AI research projects**
-- **Innovative LLM/GenAI ideas**
-- **Open-source ML contributions**
-- **Cutting-edge vision-language systems**
+## What I'm Currently Working On
+
+| Area | What exactly |
+|---|---|
+| 📖 Reading | *Probabilistic Machine Learning: An Introduction* — Kevin Murphy · [[implementations]](./your-link) |
+| 📖 Reading | *LLM Engineer's Handbook* — Packt |
+| 🔨 Building | LLM Twin — data pipelines → RAG → fine-tuning → eval → inference · [[repo]](./your-link) |
+| 🔨 Building | MTech Thesis — Offline RL-guided NPC dialogue system using CQL |
+| 📝 Writing | Technical stuff  about what breaks when theory meets production · [[LinkedIn]](https://www.linkedin.com/in/manav-khambhayata/) |
 
 ---
 
-### 📫 Contact Me
-📬 king.manav.nk@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/manav-khambhayata/)  
+## Selected Projects
+
+**[Offline RL–Guided NPC Dialogue System](./)**  
+MTech Thesis @ IIIT Lucknow. Separating high-level NPC intent strategy (learned via Conservative Q-Learning on synthetic dialogue trajectories) from natural language realization via an LLM. Built the full synthetic data generation and logging pipeline — turn-level transitions exported as `.npz` for offline training.
+
+**[ConvNeXt + KMeans Hybrid Classifier — AI Image Detection](./)**  
+Fine-tuned ConvNeXt-Base with custom classification heads + KMeans clustering on frequency-domain descriptors (Laplacian variance, noise residuals, skewness, kurtosis, Otsu statistics). F1 of 0.92 on Kaggle. [[Demo]](https://your-link-here)
+
 ---
 
-### ⚡ Fun Fact
-Even neural networks dream — in latent vectors and embeddings! 🤖💭  
-Let’s build systems that not only **learn** but also **create**.
+## Publications
+
+- **Mastering Super Mario Bros. via RL with Stable-Baselines3** — IEEE ACROSET 2024 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
+- **Image Regeneration via GANs** — Springer Nature, AAIML CCIS 2023 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
+- **CARLA vs AirSim: Simulator Comparison** — SSRN (Elsevier) 2023 · [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477130)
 
 ---
+
+## Technical Stack
+
+**Languages:** Python · C/C++ · SQL · CUDA
+
+**ML & Deep Learning:** PyTorch · TensorFlow · Scikit-learn · CNN · RNN · LSTM · GANs · Transformers · Diffusion Models · Autoencoders · Computer Vision · NLP · OpenCV
+
+**LLM & GenAI:** LangChain · LangGraph · LlamaIndex · HuggingFace · RAG · Fine-tuning · Vector DBs (Chroma, Pinecone) · LLM Evaluation · Prompt Engineering
+
+**RL:** PPO · Conservative Q-Learning (CQL) · Stable-Baselines3
+
+---
+
+**@ Swiggy (Production)**
+
+**LLM & Agents:** LangChain · LangGraph · HuggingFace (RoBERTa) · RAG · Fine-tuning · ChromaDB · STT/TTS
+
+**Data & Infrastructure:** Databricks · PySpark · Delta Lake · MLflow · Amazon S3 · Redis · SQL
+
+**Cloud & Services:** Azure Cognitive Services (Speech) · AI4Bharat
+
+**Observability & Ops:** Grafana · OpsGenie · Jira · Confluence
+
+---
+
+## Achievements
+
+- **GATE 2024 AIR 951** — Data Science & AI
+- **Kaggle Expert** — Notebooks (top-rated solutions)
+- **3 peer-reviewed publications** — IEEE, Springer Nature, SSRN/Elsevier
+- **300+ problems** — LeetCode & GeeksforGeeks
+
+---
+
+## Writing
+
+I write about things I'm learning — not summaries, but what actually clicked or broke when I implemented something.  
+→ [LinkedIn posts](https://www.linkedin.com/in/manav-khambhayata/)
+
+---
+
+*If you're working on something at the intersection of LLM systems, probabilistic ML, or production AI infrastructure — I'm always up for a conversation.*
