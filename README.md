@@ -33,6 +33,7 @@ MTech Thesis @ IIIT Lucknow. Separating high-level NPC intent strategy (learned 
 **[ConvNeXt + KMeans Hybrid Classifier — AI Image Detection](https://github.com/ManavKhambhayata/AI_vs_Human)**  
 Fine-tuned **ConvNeXt-Base** with custom classification heads and integrated **KMeans clustering** on frequency-domain descriptors (Laplacian variance, noise residuals, skewness, kurtosis, Otsu statistics). Achieved an **F1-score of 0.92 on Kaggle**.  
 🔗 [Live Demo](https://huggingface.co/spaces/Anaearth12/AI_vs_Human)
+
 ---
 
 ## Publications
